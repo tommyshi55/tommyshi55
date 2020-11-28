@@ -11,8 +11,8 @@ I am an penultimate year software engineering student at the University of Auckl
 ```javascript
 const tommy = {
   pronouns: "he" | "him",
-  code: [Java, JavaScript/TypeScript, HTML, CSS],
-  tools: [React, Angular, Node, SQL, Git],
+  code: [Java, Python, JavaScript/TypeScript, HTML, CSS],
+  tools: [React, Flutter, Angular, Node, SQL, Git],
   currentProject: "Currently working on my personal website, and learning cross-platform mobile development in Flutter",
 };
 ```
